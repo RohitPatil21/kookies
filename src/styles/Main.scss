@@ -253,4 +253,11 @@
         height: 100%;
         background-color: #FFFFFF;
     }
+
+    &__imageDiv{
+        height: 80%;
+        position: absolute;
+        top: 0;
+        left: 4rem;
+    }
 } 

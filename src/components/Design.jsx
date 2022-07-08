@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import img73 from '../images/image73.png';
 
 const Design = () => {
   return (
@@ -8,7 +9,7 @@ const Design = () => {
         <div className='design__container d-flex justify-content-center'>
             
             <div className='design__imageDiv'>
-                
+                <img src={img73} className="h-100 w-100" />
             </div>
 
             <div className='design__subContainer'>
